@@ -97,7 +97,7 @@
 
 <script>
 const guides = {
-    afib: ["AF / A-Flutter", "• Irregularly Irregular rhythm<br>• No P waves (AF) หรือ Sawtooth waves (Flutter)<br>• ประเมิน CHA2DS2-VASc"],
+    afib: ["AF / A-Flutter", "• Irregularly Irregular rhythm<br>• No P waves (AF) หรือ Sawtooth waves (Flutter)<br>• ],
     svt: ["SVT", "• Regular, Narrow QRS tachycardia<br>• HR มัก > 150 bpm<br>• มองไม่เห็น P wave"],
     vt: ["VT / VF", "• VT: Wide QRS, Regular, Fast (🚨 เช็ค Pulse ด่วน!)<br>• VF: Chaotic waves (🚨 เริ่ม CPR/Defib ทันที)"],
     avb2: ["2nd Degree AV Block", "• Mobitz I (Wenckebach): PR ยาวขึ้นเรื่อยๆ จน QRS หาย<br>• Mobitz II: PR คงที่ แต่มี QRS หายไปเป็นระยะ (อันตราย!)"],
