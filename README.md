@@ -51,6 +51,7 @@
         <div><label>Heart Rate (bpm)</label><input type="number" id="hr" placeholder="60-100"></div>
         <div><label>PR Interval (sec)</label><input type="number" step="0.01" id="pr" placeholder="0.12-0.20"></div>
         <div><label>QRS Duration (sec)</label><input type="number" step="0.01" id="qrs" placeholder="< 0.12"></div>
+         <div><label>QTc (sec)</label><input type="number" step="0.01" id="qtc" placeholder="< 0.44"></div>
  <div><label>S ใน V1 (mm)</label><input type="number" id="sv1" placeholder="สำหรับ LVH"></div>
         <div><label>R ใน V5 หรือ V6 (mm)</label><input type="number" id="rv5" placeholder="สำหรับ LVH"></div>
         <div><label>R ใน V1 (mm)</label><input type="number" id="rv1" placeholder="สำหรับ RVH (> 7mm)"></div>
